@@ -1,0 +1,20 @@
+[33m1ccba33[m[33m ([m[1;36mHEAD -> [m[1;32mmiguel/pipeline[m[33m, [m[1;31morigin/miguel/eda[m[33m, [m[1;32mmiguel/EDA[m[33m, [m[1;32mbackup-estado-actual[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33m1ccba33[m[33m ([m[1;36mHEAD -> [m[1;32mmiguel/pipeline[m[33m, [m[1;31morigin/miguel/eda[m[33m, [m[1;32mmiguel/EDA[m[33m, [m[1;32mbackup-estado-actual[m[33m)[m HEAD@{1}: merge miguel/EDA: Fast-forward
+[33me3cdafb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: checkout: moving from main to miguel/pipeline
+[33me3cdafb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{3}: checkout: moving from miguel/modelos to main
+[33m95b75ef[m[33m ([m[1;31morigin/miguel/modelos[m[33m, [m[1;32mmiguel/modelos[m[33m)[m HEAD@{4}: checkout: moving from main to miguel/modelos
+[33me3cdafb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{5}: checkout: moving from miguel/modelos to main
+[33m95b75ef[m[33m ([m[1;31morigin/miguel/modelos[m[33m, [m[1;32mmiguel/modelos[m[33m)[m HEAD@{6}: reset: moving to HEAD
+[33m95b75ef[m[33m ([m[1;31morigin/miguel/modelos[m[33m, [m[1;32mmiguel/modelos[m[33m)[m HEAD@{7}: checkout: moving from miguel/modelos to miguel/modelos
+[33m95b75ef[m[33m ([m[1;31morigin/miguel/modelos[m[33m, [m[1;32mmiguel/modelos[m[33m)[m HEAD@{8}: checkout: moving from miguel/eda to miguel/modelos
+[33m1ccba33[m[33m ([m[1;36mHEAD -> [m[1;32mmiguel/pipeline[m[33m, [m[1;31morigin/miguel/eda[m[33m, [m[1;32mmiguel/EDA[m[33m, [m[1;32mbackup-estado-actual[m[33m)[m HEAD@{9}: checkout: moving from miguel/modelos to miguel/eda
+[33m95b75ef[m[33m ([m[1;31morigin/miguel/modelos[m[33m, [m[1;32mmiguel/modelos[m[33m)[m HEAD@{10}: commit: Config: agrega gitignore y dependencias
+[33m5845f05[m[33m ([m[1;31morigin/miguel/limpieza-datos[m[33m, [m[1;32mmiguel/limpieza-datos[m[33m)[m HEAD@{11}: checkout: moving from miguel/limpieza-datos to miguel/modelos
+[33m5845f05[m[33m ([m[1;31morigin/miguel/limpieza-datos[m[33m, [m[1;32mmiguel/limpieza-datos[m[33m)[m HEAD@{12}: reset: moving to origin/miguel/limpieza-datos
+[33m1ccba33[m[33m ([m[1;36mHEAD -> [m[1;32mmiguel/pipeline[m[33m, [m[1;31morigin/miguel/eda[m[33m, [m[1;32mmiguel/EDA[m[33m, [m[1;32mbackup-estado-actual[m[33m)[m HEAD@{13}: checkout: moving from miguel/EDA to miguel/limpieza-datos
+[33m1ccba33[m[33m ([m[1;36mHEAD -> [m[1;32mmiguel/pipeline[m[33m, [m[1;31morigin/miguel/eda[m[33m, [m[1;32mmiguel/EDA[m[33m, [m[1;32mbackup-estado-actual[m[33m)[m HEAD@{14}: reset: moving to 1ccba33
+[33me3cdafb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{15}: checkout: moving from miguel/eda to miguel/EDA
+[33me3cdafb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{16}: checkout: moving from miguel/limpieza-datos to miguel/eda
+[33m1ccba33[m[33m ([m[1;36mHEAD -> [m[1;32mmiguel/pipeline[m[33m, [m[1;31morigin/miguel/eda[m[33m, [m[1;32mmiguel/EDA[m[33m, [m[1;32mbackup-estado-actual[m[33m)[m HEAD@{17}: commit: Notebooks 01-03: EDA y análisis de calidad
+[33m5845f05[m[33m ([m[1;31morigin/miguel/limpieza-datos[m[33m, [m[1;32mmiguel/limpieza-datos[m[33m)[m HEAD@{18}: checkout: moving from miguel/eda to miguel/limpieza-datos
+[33me3cdafb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{19}: checkout: moving from miguel/limpieza-datos to miguel/eda

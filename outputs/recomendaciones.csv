@@ -1,0 +1,229 @@
+prioridad,sede,sector,tipo_anomalia,cantidad_eventos,desperdicio_detectado_kwh,ahorro_potencial_kwh,ahorro_mensual_cop,problema,causa_probable,acciones_recomendadas,responsable,dificultad_implementacion,eventos_criticos,prioridad_final
+36,Sogamoso,laboratorios,consumo_pico_excesivo,240,251.3,100.52,7036,Se detectaron 240 eventos de consumo excesivo en horario pico en laboratorios de Sogamoso.,Uso simultáneo de múltiples equipos de alto consumo.,"1. Escalonar uso de equipos de alto consumo
+2. Programar experimentos intensivos en horario valle
+3. Optimizar ocupación de laboratorios
+4. Identificar equipos con mayor demanda",Coordinador de Laboratorios,ALTA,14,1
+37,Sogamoso,oficinas,consumo_fin_semana_alto,351,64.22,51.38,3596,Se detectaron 351 eventos de consumo en oficinas durante fines de semana en Sogamoso.,Equipos de oficina sin apagar.,"1. Apagado de servidores no críticos
+2. Desconexión de equipos periféricos
+3. Sistema de alarma vinculado a consumo eléctrico
+4. Lista de equipos autorizados fin de semana",Jefe de Área Administrativa,MEDIA,82,2
+21,Duitama,oficinas,consumo_fin_semana_alto,344,61.67,49.34,3453,Se detectaron 344 eventos de consumo en oficinas durante fines de semana en Duitama.,Equipos de oficina sin apagar.,"1. Apagado de servidores no críticos
+2. Desconexión de equipos periféricos
+3. Sistema de alarma vinculado a consumo eléctrico
+4. Lista de equipos autorizados fin de semana",Jefe de Área Administrativa,MEDIA,62,3
+24,Duitama,oficinas,consumo_pico_excesivo,301,205.02,82.01,5740,Se detectaron 301 eventos de consumo excesivo en horario pico en oficinas de Duitama.,Equipos de oficina y climatización operando simultáneamente.,"1. Configurar modo ahorro de energía en computadores
+2. Optimizar temperatura de aires acondicionados
+3. Apagar impresoras cuando no se usen
+4. Cerrar ventanas cuando AC está encendido",Jefe de Área Administrativa,ALTA,34,4
+40,Sogamoso,oficinas,consumo_pico_excesivo,304,203.8,81.52,5706,Se detectaron 304 eventos de consumo excesivo en horario pico en oficinas de Sogamoso.,Equipos de oficina y climatización operando simultáneamente.,"1. Configurar modo ahorro de energía en computadores
+2. Optimizar temperatura de aires acondicionados
+3. Apagar impresoras cuando no se usen
+4. Cerrar ventanas cuando AC está encendido",Jefe de Área Administrativa,ALTA,46,5
+34,Sogamoso,laboratorios,consumo_fuera_patron,137,117.41,76.32,5342,Se detectaron 137 eventos de consumo atípico en laboratorios de Sogamoso.,Uso irregular o eventos especiales no programados.,"1. Implementar sistema de registro de uso de laboratorios
+2. Analizar eventos atípicos caso por caso
+3. Protocolo de autorización para uso fuera de horario
+4. Monitoreo de consumo en tiempo real",Coordinador de Laboratorios,ALTA,14,6
+48,Tunja,laboratorios,consumo_fuera_patron,300,111.09,72.21,5054,Se detectaron 300 eventos de consumo atípico en laboratorios de Tunja.,Uso irregular o eventos especiales no programados.,"1. Implementar sistema de registro de uso de laboratorios
+2. Analizar eventos atípicos caso por caso
+3. Protocolo de autorización para uso fuera de horario
+4. Monitoreo de consumo en tiempo real",Coordinador de Laboratorios,ALTA,47,7
+38,Sogamoso,oficinas,consumo_fuera_patron,374,109.4,71.11,4977,Se detectaron 374 eventos de consumo atípico en oficinas de Sogamoso.,Trabajo fuera de horario o reuniones no programadas.,"1. Habilitar áreas específicas para trabajo fuera de horario
+2. Desactivar climatización en áreas no ocupadas
+3. Sistema de registro de permanencia
+4. Iluminación localizada en vez de general",Jefe de Área Administrativa,ALTA,89,8
+50,Tunja,laboratorios,consumo_pico_excesivo,373,173.09,69.24,4846,Se detectaron 373 eventos de consumo excesivo en horario pico en laboratorios de Tunja.,Uso simultáneo de múltiples equipos de alto consumo.,"1. Escalonar uso de equipos de alto consumo
+2. Programar experimentos intensivos en horario valle
+3. Optimizar ocupación de laboratorios
+4. Identificar equipos con mayor demanda",Coordinador de Laboratorios,ALTA,28,9
+17,Duitama,laboratorios,consumo_fin_semana_alto,99,85.94,68.75,4812,Se detectaron 99 eventos de consumo elevado en fines de semana en laboratorios de Duitama.,Equipos operando sin actividades programadas o personal presente.,"1. Protocolo de cierre de laboratorios los fines de semana
+2. Lista de equipos autorizados para operar 24/7
+3. Sistema de solicitud para uso de laboratorios en fin de semana
+4. Inspección al cierre del viernes",Coordinador de Laboratorios,ALTA,13,10
+26,Duitama,salones,consumo_fuera_patron,269,99.96,64.97,4548,Se detectaron 269 eventos de consumo atípico en salones de Duitama.,"Eventos académicos, conferencias o actividades extracurriculares.","1. Centralizar eventos en salones específicos
+2. Programar eventos consecutivos en mismo lugar
+3. Apagar equipos inmediatamente al finalizar
+4. Capacitar organizadores sobre uso eficiente",Coordinación Académica,ALTA,110,11
+22,Duitama,oficinas,consumo_fuera_patron,340,99.17,64.46,4512,Se detectaron 340 eventos de consumo atípico en oficinas de Duitama.,Trabajo fuera de horario o reuniones no programadas.,"1. Habilitar áreas específicas para trabajo fuera de horario
+2. Desactivar climatización en áreas no ocupadas
+3. Sistema de registro de permanencia
+4. Iluminación localizada en vez de general",Jefe de Área Administrativa,ALTA,69,12
+28,Duitama,salones,consumo_pico_excesivo,195,156.03,62.41,4368,Se detectaron 195 eventos de consumo excesivo en horario pico en salones de Duitama.,Uso intensivo de iluminación y climatización.,"1. Optimizar temperatura de aires acondicionados (24-25°C)
+2. Aprovechar iluminación natural
+3. Apagar equipos en salones vacíos entre clases
+4. Sensores de ocupación",Servicios Generales,ALTA,26,13
+54,Tunja,oficinas,consumo_pico_excesivo,376,151.13,60.45,4231,Se detectaron 376 eventos de consumo excesivo en horario pico en oficinas de Tunja.,Equipos de oficina y climatización operando simultáneamente.,"1. Configurar modo ahorro de energía en computadores
+2. Optimizar temperatura de aires acondicionados
+3. Apagar impresoras cuando no se usen
+4. Cerrar ventanas cuando AC está encendido",Jefe de Área Administrativa,ALTA,73,14
+20,Duitama,laboratorios,consumo_pico_excesivo,171,149.71,59.88,4191,Se detectaron 171 eventos de consumo excesivo en horario pico en laboratorios de Duitama.,Uso simultáneo de múltiples equipos de alto consumo.,"1. Escalonar uso de equipos de alto consumo
+2. Programar experimentos intensivos en horario valle
+3. Optimizar ocupación de laboratorios
+4. Identificar equipos con mayor demanda",Coordinador de Laboratorios,ALTA,5,15
+18,Duitama,laboratorios,consumo_fuera_patron,129,91.21,59.29,4150,Se detectaron 129 eventos de consumo atípico en laboratorios de Duitama.,Uso irregular o eventos especiales no programados.,"1. Implementar sistema de registro de uso de laboratorios
+2. Analizar eventos atípicos caso por caso
+3. Protocolo de autorización para uso fuera de horario
+4. Monitoreo de consumo en tiempo real",Coordinador de Laboratorios,ALTA,8,16
+41,Sogamoso,salones,consumo_fin_semana_alto,52,40.62,32.5,2274,Se detectaron 52 eventos de consumo en salones durante fines de semana en Sogamoso.,Instalaciones vacías con equipos encendidos.,"1. Apagado total de aires acondicionados los fines de semana
+2. Corte de energía en sectores no críticos
+3. Protocolo de verificación viernes en la tarde
+4. Activar solo salones con eventos programados",Servicios Generales,MEDIA,14,17
+43,Sogamoso,salones,consumo_pico_excesivo,173,138.68,55.47,3883,Se detectaron 173 eventos de consumo excesivo en horario pico en salones de Sogamoso.,Uso intensivo de iluminación y climatización.,"1. Optimizar temperatura de aires acondicionados (24-25°C)
+2. Aprovechar iluminación natural
+3. Apagar equipos en salones vacíos entre clases
+4. Sensores de ocupación",Servicios Generales,ALTA,27,18
+33,Sogamoso,laboratorios,consumo_fin_semana_alto,81,67.9,54.32,3802,Se detectaron 81 eventos de consumo elevado en fines de semana en laboratorios de Sogamoso.,Equipos operando sin actividades programadas o personal presente.,"1. Protocolo de cierre de laboratorios los fines de semana
+2. Lista de equipos autorizados para operar 24/7
+3. Sistema de solicitud para uso de laboratorios en fin de semana
+4. Inspección al cierre del viernes",Coordinador de Laboratorios,ALTA,10,19
+42,Sogamoso,salones,consumo_fuera_patron,216,83.13,54.03,3782,Se detectaron 216 eventos de consumo atípico en salones de Sogamoso.,"Eventos académicos, conferencias o actividades extracurriculares.","1. Centralizar eventos en salones específicos
+2. Programar eventos consecutivos en mismo lugar
+3. Apagar equipos inmediatamente al finalizar
+4. Capacitar organizadores sobre uso eficiente",Coordinación Académica,ALTA,97,20
+47,Tunja,laboratorios,consumo_fin_semana_alto,199,63.69,50.95,3566,Se detectaron 199 eventos de consumo elevado en fines de semana en laboratorios de Tunja.,Equipos operando sin actividades programadas o personal presente.,"1. Protocolo de cierre de laboratorios los fines de semana
+2. Lista de equipos autorizados para operar 24/7
+3. Sistema de solicitud para uso de laboratorios en fin de semana
+4. Inspección al cierre del viernes",Coordinador de Laboratorios,ALTA,34,21
+25,Duitama,salones,consumo_fin_semana_alto,66,36.09,28.87,2021,Se detectaron 66 eventos de consumo en salones durante fines de semana en Duitama.,Instalaciones vacías con equipos encendidos.,"1. Apagado total de aires acondicionados los fines de semana
+2. Corte de energía en sectores no críticos
+3. Protocolo de verificación viernes en la tarde
+4. Activar solo salones con eventos programados",Servicios Generales,MEDIA,20,22
+49,Tunja,laboratorios,consumo_nocturno_alto,190,57.57,48.93,3425,Se detectaron 190 eventos de consumo nocturno elevado (0-6 AM) en laboratorios de Tunja.,Equipos que permanecen encendidos durante la noche sin necesidad operativa.,"1. Auditar equipos que operan 24/7 (freezers, incubadoras, servidores)
+2. Identificar cuáles pueden apagarse en horario nocturno
+3. Implementar temporizadores o sensores de ocupación
+4. Establecer protocolo de apagado nocturno para equipos no críticos",Coordinador de Laboratorios,ALTA,10,23
+57,Tunja,salones,consumo_pico_excesivo,300,121.84,48.74,3411,Se detectaron 300 eventos de consumo excesivo en horario pico en salones de Tunja.,Uso intensivo de iluminación y climatización.,"1. Optimizar temperatura de aires acondicionados (24-25°C)
+2. Aprovechar iluminación natural
+3. Apagar equipos en salones vacíos entre clases
+4. Sensores de ocupación",Servicios Generales,ALTA,40,24
+9,Chiquinquirá,oficinas,consumo_pico_excesivo,328,109.47,43.79,3065,Se detectaron 328 eventos de consumo excesivo en horario pico en oficinas de Chiquinquirá.,Equipos de oficina y climatización operando simultáneamente.,"1. Configurar modo ahorro de energía en computadores
+2. Optimizar temperatura de aires acondicionados
+3. Apagar impresoras cuando no se usen
+4. Cerrar ventanas cuando AC está encendido",Jefe de Área Administrativa,ALTA,43,25
+6,Chiquinquirá,laboratorios,consumo_pico_excesivo,437,100.34,40.14,2809,Se detectaron 437 eventos de consumo excesivo en horario pico en laboratorios de Chiquinquirá.,Uso simultáneo de múltiples equipos de alto consumo.,"1. Escalonar uso de equipos de alto consumo
+2. Programar experimentos intensivos en horario valle
+3. Optimizar ocupación de laboratorios
+4. Identificar equipos con mayor demanda",Coordinador de Laboratorios,ALTA,97,26
+12,Chiquinquirá,salones,consumo_pico_excesivo,216,98.37,39.35,2754,Se detectaron 216 eventos de consumo excesivo en horario pico en salones de Chiquinquirá.,Uso intensivo de iluminación y climatización.,"1. Optimizar temperatura de aires acondicionados (24-25°C)
+2. Aprovechar iluminación natural
+3. Apagar equipos en salones vacíos entre clases
+4. Sensores de ocupación",Servicios Generales,ALTA,21,27
+56,Tunja,salones,consumo_fuera_patron,272,57.12,37.13,2598,Se detectaron 272 eventos de consumo atípico en salones de Tunja.,"Eventos académicos, conferencias o actividades extracurriculares.","1. Centralizar eventos en salones específicos
+2. Programar eventos consecutivos en mismo lugar
+3. Apagar equipos inmediatamente al finalizar
+4. Capacitar organizadores sobre uso eficiente",Coordinación Académica,ALTA,145,28
+39,Sogamoso,oficinas,consumo_nocturno_alto,386,41.93,35.64,2494,Se detectaron 386 eventos de consumo nocturno en oficinas de Sogamoso.,"Computadores, luces o aires acondicionados sin apagar.","1. Política de apagado obligatorio de equipos al salir
+2. Apagado automático de computadores después de 2 horas de inactividad
+3. Sensores de movimiento para iluminación
+4. Inspección semanal nocturna",Jefe de Área Administrativa,ALTA,11,29
+52,Tunja,oficinas,consumo_fuera_patron,226,53.79,34.96,2447,Se detectaron 226 eventos de consumo atípico en oficinas de Tunja.,Trabajo fuera de horario o reuniones no programadas.,"1. Habilitar áreas específicas para trabajo fuera de horario
+2. Desactivar climatización en áreas no ocupadas
+3. Sistema de registro de permanencia
+4. Iluminación localizada en vez de general",Jefe de Área Administrativa,ALTA,80,30
+8,Chiquinquirá,oficinas,consumo_fuera_patron,210,53.1,34.52,2416,Se detectaron 210 eventos de consumo atípico en oficinas de Chiquinquirá.,Trabajo fuera de horario o reuniones no programadas.,"1. Habilitar áreas específicas para trabajo fuera de horario
+2. Desactivar climatización en áreas no ocupadas
+3. Sistema de registro de permanencia
+4. Iluminación localizada en vez de general",Jefe de Área Administrativa,ALTA,83,31
+14,Duitama,comedor,consumo_fuera_patron,324,51.63,33.56,2349,Se detectaron 324 eventos de consumo atípico en comedores de Duitama.,Eventos especiales o preparación fuera de horario regular.,"1. Planificar eventos especiales con anticipación
+2. Optimizar preparación de alimentos
+3. Registro de eventos que generan consumo atípico
+4. Evaluar eficiencia energética en eventos",Administrador de Servicios Alimentarios,ALTA,57,32
+23,Duitama,oficinas,consumo_nocturno_alto,365,39.26,33.37,2335,Se detectaron 365 eventos de consumo nocturno en oficinas de Duitama.,"Computadores, luces o aires acondicionados sin apagar.","1. Política de apagado obligatorio de equipos al salir
+2. Apagado automático de computadores después de 2 horas de inactividad
+3. Sensores de movimiento para iluminación
+4. Inspección semanal nocturna",Jefe de Área Administrativa,ALTA,14,33
+30,Sogamoso,comedor,consumo_fuera_patron,271,50.72,32.97,2307,Se detectaron 271 eventos de consumo atípico en comedores de Sogamoso.,Eventos especiales o preparación fuera de horario regular.,"1. Planificar eventos especiales con anticipación
+2. Optimizar preparación de alimentos
+3. Registro de eventos que generan consumo atípico
+4. Evaluar eficiencia energética en eventos",Administrador de Servicios Alimentarios,ALTA,85,34
+11,Chiquinquirá,salones,consumo_fuera_patron,246,49.11,31.92,2234,Se detectaron 246 eventos de consumo atípico en salones de Chiquinquirá.,"Eventos académicos, conferencias o actividades extracurriculares.","1. Centralizar eventos en salones específicos
+2. Programar eventos consecutivos en mismo lugar
+3. Apagar equipos inmediatamente al finalizar
+4. Capacitar organizadores sobre uso eficiente",Coordinación Académica,ALTA,119,35
+4,Chiquinquirá,laboratorios,consumo_fuera_patron,275,45.7,29.71,2079,Se detectaron 275 eventos de consumo atípico en laboratorios de Chiquinquirá.,Uso irregular o eventos especiales no programados.,"1. Implementar sistema de registro de uso de laboratorios
+2. Analizar eventos atípicos caso por caso
+3. Protocolo de autorización para uso fuera de horario
+4. Monitoreo de consumo en tiempo real",Coordinador de Laboratorios,ALTA,46,36
+10,Chiquinquirá,salones,consumo_fin_semana_alto,53,21.17,16.94,1185,Se detectaron 53 eventos de consumo en salones durante fines de semana en Chiquinquirá.,Instalaciones vacías con equipos encendidos.,"1. Apagado total de aires acondicionados los fines de semana
+2. Corte de energía en sectores no críticos
+3. Protocolo de verificación viernes en la tarde
+4. Activar solo salones con eventos programados",Servicios Generales,MEDIA,14,37
+13,Duitama,comedor,consumo_fin_semana_alto,142,18.5,14.8,1036,Se detectaron 142 eventos de consumo en comedores durante fines de semana en Duitama.,Refrigeradores operando a capacidad normal sin demanda.,"1. Reducir temperatura de refrigeración los fines de semana
+2. Consolidar alimentos en menos refrigeradores
+3. Apagar equipos de cocción
+4. Verificar cierre correcto de instalaciones",Administrador de Servicios Alimentarios,MEDIA,57,38
+51,Tunja,oficinas,consumo_fin_semana_alto,100,18.16,14.53,1016,Se detectaron 100 eventos de consumo en oficinas durante fines de semana en Tunja.,Equipos de oficina sin apagar.,"1. Apagado de servidores no críticos
+2. Desconexión de equipos periféricos
+3. Sistema de alarma vinculado a consumo eléctrico
+4. Lista de equipos autorizados fin de semana",Jefe de Área Administrativa,MEDIA,38,39
+3,Chiquinquirá,laboratorios,consumo_fin_semana_alto,245,29.89,23.91,1673,Se detectaron 245 eventos de consumo elevado en fines de semana en laboratorios de Chiquinquirá.,Equipos operando sin actividades programadas o personal presente.,"1. Protocolo de cierre de laboratorios los fines de semana
+2. Lista de equipos autorizados para operar 24/7
+3. Sistema de solicitud para uso de laboratorios en fin de semana
+4. Inspección al cierre del viernes",Coordinador de Laboratorios,ALTA,30,40
+55,Tunja,salones,consumo_fin_semana_alto,51,17.01,13.61,952,Se detectaron 51 eventos de consumo en salones durante fines de semana en Tunja.,Instalaciones vacías con equipos encendidos.,"1. Apagado total de aires acondicionados los fines de semana
+2. Corte de energía en sectores no críticos
+3. Protocolo de verificación viernes en la tarde
+4. Activar solo salones con eventos programados",Servicios Generales,MEDIA,12,41
+16,Duitama,comedor,consumo_pico_excesivo,441,58.89,23.56,1648,Se detectaron 441 eventos de consumo excesivo en horario pico en comedores de Duitama.,Todos los equipos de cocción y refrigeración a máxima capacidad simultáneamente.,"1. Escalonar horarios de preparación de alimentos
+2. Precalentar equipos solo cuando sea necesario
+3. Optimizar distribución de carga eléctrica
+4. Evaluar capacidad vs demanda real",Administrador de Servicios Alimentarios,ALTA,155,42
+29,Sogamoso,comedor,consumo_fin_semana_alto,130,16.69,13.35,934,Se detectaron 130 eventos de consumo en comedores durante fines de semana en Sogamoso.,Refrigeradores operando a capacidad normal sin demanda.,"1. Reducir temperatura de refrigeración los fines de semana
+2. Consolidar alimentos en menos refrigeradores
+3. Apagar equipos de cocción
+4. Verificar cierre correcto de instalaciones",Administrador de Servicios Alimentarios,MEDIA,51,43
+32,Sogamoso,comedor,consumo_pico_excesivo,428,56.84,22.74,1591,Se detectaron 428 eventos de consumo excesivo en horario pico en comedores de Sogamoso.,Todos los equipos de cocción y refrigeración a máxima capacidad simultáneamente.,"1. Escalonar horarios de preparación de alimentos
+2. Precalentar equipos solo cuando sea necesario
+3. Optimizar distribución de carga eléctrica
+4. Evaluar capacidad vs demanda real",Administrador de Servicios Alimentarios,ALTA,146,44
+5,Chiquinquirá,laboratorios,consumo_nocturno_alto,284,26.33,22.38,1566,Se detectaron 284 eventos de consumo nocturno elevado (0-6 AM) en laboratorios de Chiquinquirá.,Equipos que permanecen encendidos durante la noche sin necesidad operativa.,"1. Auditar equipos que operan 24/7 (freezers, incubadoras, servidores)
+2. Identificar cuáles pueden apagarse en horario nocturno
+3. Implementar temporizadores o sensores de ocupación
+4. Establecer protocolo de apagado nocturno para equipos no críticos",Coordinador de Laboratorios,ALTA,9,45
+45,Tunja,comedor,consumo_fuera_patron,175,34.14,22.19,1553,Se detectaron 175 eventos de consumo atípico en comedores de Tunja.,Eventos especiales o preparación fuera de horario regular.,"1. Planificar eventos especiales con anticipación
+2. Optimizar preparación de alimentos
+3. Registro de eventos que generan consumo atípico
+4. Evaluar eficiencia energética en eventos",Administrador de Servicios Alimentarios,ALTA,55,46
+7,Chiquinquirá,oficinas,consumo_fin_semana_alto,73,14.01,11.21,784,Se detectaron 73 eventos de consumo en oficinas durante fines de semana en Chiquinquirá.,Equipos de oficina sin apagar.,"1. Apagado de servidores no críticos
+2. Desconexión de equipos periféricos
+3. Sistema de alarma vinculado a consumo eléctrico
+4. Lista de equipos autorizados fin de semana",Jefe de Área Administrativa,MEDIA,29,47
+15,Duitama,comedor,consumo_nocturno_alto,313,23.07,19.61,1372,Se detectaron 313 eventos de consumo nocturno en comedores de Duitama.,Refrigeradores o sistemas de ventilación operando a máxima capacidad innecesariamente.,"1. Verificar configuración de termostatos de refrigeradores
+2. Revisar estado de empaques y sellos
+3. Reducir temperatura de refrigeración nocturna
+4. Apagar equipos no esenciales",Administrador de Servicios Alimentarios,ALTA,41,48
+46,Tunja,comedor,consumo_pico_excesivo,304,36.46,14.58,1020,Se detectaron 304 eventos de consumo excesivo en horario pico en comedores de Tunja.,Todos los equipos de cocción y refrigeración a máxima capacidad simultáneamente.,"1. Escalonar horarios de preparación de alimentos
+2. Precalentar equipos solo cuando sea necesario
+3. Optimizar distribución de carga eléctrica
+4. Evaluar capacidad vs demanda real",Administrador de Servicios Alimentarios,ALTA,191,49
+31,Sogamoso,comedor,consumo_nocturno_alto,235,16.99,14.44,1010,Se detectaron 235 eventos de consumo nocturno en comedores de Sogamoso.,Refrigeradores o sistemas de ventilación operando a máxima capacidad innecesariamente.,"1. Verificar configuración de termostatos de refrigeradores
+2. Revisar estado de empaques y sellos
+3. Reducir temperatura de refrigeración nocturna
+4. Apagar equipos no esenciales",Administrador de Servicios Alimentarios,ALTA,23,50
+44,Tunja,comedor,consumo_fin_semana_alto,60,8.78,7.02,491,Se detectaron 60 eventos de consumo en comedores durante fines de semana en Tunja.,Refrigeradores operando a capacidad normal sin demanda.,"1. Reducir temperatura de refrigeración los fines de semana
+2. Consolidar alimentos en menos refrigeradores
+3. Apagar equipos de cocción
+4. Verificar cierre correcto de instalaciones",Administrador de Servicios Alimentarios,MEDIA,35,51
+35,Sogamoso,laboratorios,consumo_nocturno_alto,26,14.15,12.03,841,Se detectaron 26 eventos de consumo nocturno elevado (0-6 AM) en laboratorios de Sogamoso.,Equipos que permanecen encendidos durante la noche sin necesidad operativa.,"1. Auditar equipos que operan 24/7 (freezers, incubadoras, servidores)
+2. Identificar cuáles pueden apagarse en horario nocturno
+3. Implementar temporizadores o sensores de ocupación
+4. Establecer protocolo de apagado nocturno para equipos no críticos",Coordinador de Laboratorios,ALTA,0,52
+2,Chiquinquirá,comedor,consumo_fuera_patron,97,15.76,10.24,717,Se detectaron 97 eventos de consumo atípico en comedores de Chiquinquirá.,Eventos especiales o preparación fuera de horario regular.,"1. Planificar eventos especiales con anticipación
+2. Optimizar preparación de alimentos
+3. Registro de eventos que generan consumo atípico
+4. Evaluar eficiencia energética en eventos",Administrador de Servicios Alimentarios,ALTA,40,53
+19,Duitama,laboratorios,consumo_nocturno_alto,18,10.81,9.19,643,Se detectaron 18 eventos de consumo nocturno elevado (0-6 AM) en laboratorios de Duitama.,Equipos que permanecen encendidos durante la noche sin necesidad operativa.,"1. Auditar equipos que operan 24/7 (freezers, incubadoras, servidores)
+2. Identificar cuáles pueden apagarse en horario nocturno
+3. Implementar temporizadores o sensores de ocupación
+4. Establecer protocolo de apagado nocturno para equipos no críticos",Coordinador de Laboratorios,ALTA,1,54
+27,Duitama,salones,consumo_nocturno_alto,39,2.84,2.41,168,Se detectaron 39 eventos de consumo nocturno en salones de Duitama.,"Luces, aires acondicionados o proyectores dejados encendidos.","1. Implementar sensores de movimiento para iluminación
+2. Temporizadores para aires acondicionados
+3. Capacitar al personal de aseo sobre apagado de equipos
+4. Rondas nocturnas de verificación",Servicios Generales,ALTA,5,55
+53,Tunja,oficinas,consumo_nocturno_alto,39,2.38,2.02,141,Se detectaron 39 eventos de consumo nocturno en oficinas de Tunja.,"Computadores, luces o aires acondicionados sin apagar.","1. Política de apagado obligatorio de equipos al salir
+2. Apagado automático de computadores después de 2 horas de inactividad
+3. Sensores de movimiento para iluminación
+4. Inspección semanal nocturna",Jefe de Área Administrativa,ALTA,1,56
+1,Chiquinquirá,comedor,consumo_fin_semana_alto,10,0.96,0.77,53,Se detectaron 10 eventos de consumo en comedores durante fines de semana en Chiquinquirá.,Refrigeradores operando a capacidad normal sin demanda.,"1. Reducir temperatura de refrigeración los fines de semana
+2. Consolidar alimentos en menos refrigeradores
+3. Apagar equipos de cocción
+4. Verificar cierre correcto de instalaciones",Administrador de Servicios Alimentarios,BAJA,6,57
