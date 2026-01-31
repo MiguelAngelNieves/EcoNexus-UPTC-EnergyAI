@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+notebooks/outputs/
+.DS_Store
+Thumbs.db
+*.pyc
