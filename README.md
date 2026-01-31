@@ -199,7 +199,7 @@ Edita `config_recomendaciones.json`:
 ### Impacto Económico
 - Reducción potencial: **15% del consumo**
 - Para Tunja (sede principal): ~450,000 kWh/año ahorrados
-- Ahorro estimado: **~$473 millones COP/año**
+- Ahorro estimado: **~$22 a 31 millones COP/año**
 
 ### Impacto Ambiental
 - Reducción de emisiones CO₂
